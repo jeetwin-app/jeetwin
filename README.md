@@ -1,4 +1,19 @@
 # JeetWin App Bangladesh Online Casino
+
+# <a href="https://bit.ly/jeetwinbd">CLICK HERE TO ACCESS</a>
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+
+<div style=<text-align: center;">
+<a href="https://bit.ly/jeetwinbd" title="JeetWin App"><img src="https://github.com/user-attachments/assets/31ec3dca-aa74-423c-8053-a1a446102da6" title="JeetWin App" alt="JeetWin App"></a></div>
+<div style=<text-align: center;">
+<a href="https://bit.ly/jeetwinbd">
+<img src="https://github.com/user-attachments/assets/31ec3dca-aa74-423c-8053-a1a446102da6" />
+</a></div>
+
 JeetWin Login opens the gateway to an exciting and secure gaming platform where you can bet on your favorite sports and explore a wide array of casino games. Whether you’re a seasoned player or new to online betting, JeetWin ensures a seamless and enjoyable experience tailored to your needs. With the JeetWin App, gaming has never been more accessible and enjoyable.
 
 # Why JeetWin Stands Out
